@@ -42,22 +42,22 @@ footer {
     text-align: center;
 }
 a:link {
-  color: #00008B;
+  color: #6699ff;
   background-color: transparent;
   text-decoration: none;
 }
 a:visited {
-  color: pink;
+  color: #6699ff
+;
   background-color: transparent;
   text-decoration: none;
 }
 a:hover {
   color: red;
   background-color: transparent;
-  text-decoration: underline;
 }
 a:active {
-  color: yellow;
+  color: #3366ff;
   background-color: transparent;
   text-decoration: underline;
 }
