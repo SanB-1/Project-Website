@@ -1,2 +1,2 @@
 # Project-Hosting
-Work in progress, will host links to all my projects.
+Website holding links and images for my projects.
