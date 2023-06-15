@@ -31,14 +31,24 @@ nav ul li a {
     text-decoration: none;
 }
 
+body {
+    background-color: #aaa
+}
+
 #projects {
-    background-color: #444;
+    background-color: #222;
     padding: 20px;
+    margin: auto;
+    width: 50%;
 }
 
 section {
     padding: 50px;
     background-color: #333;
+}
+
+#contact {
+    border: 1px solid black;
 }
 
 footer {
@@ -47,13 +57,12 @@ footer {
     text-align: center;
 }
 a:link {
-  color: #6699ff;
+  color: #99ddff;
   background-color: transparent;
   text-decoration: none;
 }
 a:visited {
-  color: #6699ff
-;
+  color: #99ddff;
   background-color: transparent;
   text-decoration: none;
 }
@@ -62,7 +71,7 @@ a:hover {
   background-color: transparent;
 }
 a:active {
-  color: #3366ff;
+  color: red;
   background-color: transparent;
   text-decoration: underline;
 }
