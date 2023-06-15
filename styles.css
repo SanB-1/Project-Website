@@ -31,9 +31,14 @@ nav ul li a {
     text-decoration: none;
 }
 
+#projects {
+    background-color: #444;
+    padding: 20px;
+}
+
 section {
     padding: 50px;
-    background-color: #111;
+    background-color: #333;
 }
 
 footer {
