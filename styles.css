@@ -142,7 +142,7 @@ a.prev:hover,a.next:hover {
 }
 .prev {
 	left:0;
-	background: #000 url('docs/sprite.png') no-repeat -206px 25px;
+	background: #000 url('docs/sprite.png') no-repeat -207px 25px;
 }
 .next {
 	right:0;
