@@ -181,11 +181,11 @@ a.prev:hover,a.next:hover {
 }
 .prev {
 	left:0;
-	background: #000 url('https://lh4.googleusercontent.com/-JN1IZLtuToI/UUoZnMG3C_I/AAAAAAAAAE8/SEbJ9nqXGnY/s226/sprite.png') no-repeat -200px 25px;
+	background: #000 url('docs/sprite.png') no-repeat -200px 25px;
 }
 .next {
 	right:0;
-	background: #000 url('https://lh4.googleusercontent.com/-JN1IZLtuToI/UUoZnMG3C_I/AAAAAAAAAE8/SEbJ9nqXGnY/s226/sprite.png') no-repeat -167px 25px;
+	background: #000 url('docs/sprite.png') no-repeat -167px 25px;
 }
 .slider {
 	height:100vh;
